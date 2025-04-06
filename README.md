@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yahyaahmedkhan)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yahyaahmedkhan&hide=jupyter%20notebook)
+
+
+![Yahys's GitHub stats](https://github-readme-stats.vercel.app/api?username=yahyaahmedkhan&show_icons=true)
+
 <!--
 **YahyaAhmedKhan/YahyaAhmedKhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
