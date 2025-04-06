@@ -1,7 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Yahya Ahmed Khan</h1>
 
----
-
 ### 👨‍💻 About Me
 
 I’m a passionate **Full Stack Developer** and **AI enthusiast** from Pakistan 🇵🇰.
