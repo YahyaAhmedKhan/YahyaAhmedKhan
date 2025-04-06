@@ -38,6 +38,10 @@ I’m a passionate **Full Stack Developer** and **AI enthusiast** from Pakistan 
   <img height="200" src="https://github-readme-streak-stats.herokuapp.com?user=yahyaahmedkhan&theme=radical&background=000000" />
 </p>
 
+---
+
+### 🛠️ Lanuages and Skils
+
 <p align="center">
   <strong>Languages:</strong>
 </p>
