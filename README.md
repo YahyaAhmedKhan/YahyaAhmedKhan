@@ -1,5 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Yahya Ahmed Khan</h1>
 
+![Profile View Counter](https://komarev.com/ghpvc/?username=yahyaahmedkhan)
+
+![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ### 👨‍💻 About Me
 
 I’m a passionate **Full Stack Developer** and **AI enthusiast** from Pakistan 🇵🇰.
