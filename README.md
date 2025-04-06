@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 <p align="center">
-  <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahyaahmedkhan&hide=jupyter%20notebook" />
+  <img height="270" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahyaahmedkhan&hide=jupyter%20notebook" />
   &nbsp;&nbsp;&nbsp;
-  <img height="300" src="https://github-readme-stats.vercel.app/api?username=yahyaahmedkhan&show_icons=true" />
+  <img height="270" src="https://github-readme-stats.vercel.app/api?username=yahyaahmedkhan&show_icons=true" />
 </p>
 
 <!--
