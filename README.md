@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahyaahmedkhan&hide=jupyter%20notebook&theme=radical" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahyaahmedkhan&hide=jupyter%20notebook&layout=donut&theme=radical" />
   &nbsp;&nbsp;&nbsp;
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=yahyaahmedkhan&show_icons=true&theme=radical" />
 </p>
