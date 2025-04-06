@@ -1,8 +1,21 @@
 <h1 align="center">Hi there 👋, I'm Yahya Ahmed Khan</h1>
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=yahyaahmedkhan)
+<p align="center">
+  <a href="https://www.linkedin.com/in/yahyaahmedkhan/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:yahyaahmedkhan.anon@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-c14438?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 
-![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+  <a href="mailto:mixdeers@gmail.com">
+    <img src="https://komarev.com/ghpvc/?username=yahyaahmedkhan" alt="Profile views"/>
+  </a>
+</p>
+
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat&logo=Visual%20Studio%20Code&logoColor=white"/>
+
+
 ### 👨‍💻 About Me
 
 I’m a passionate **Full Stack Developer** and **AI enthusiast** from Pakistan 🇵🇰.
