@@ -20,11 +20,12 @@ I’m a passionate **Full Stack Developer** and **AI enthusiast** from Pakistan 
 <p align="center">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=yahyaahmedkhan&show_icons=true&theme=radical" />
   &nbsp;&nbsp;&nbsp;
-  <img height="200" src="https://github-readme-streak-stats.herokuapp.com?user=yahyaahmedkhan&theme=radical&background=000000" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahyaahmedkhan&hide=jupyter%20notebook&layout=donut&theme=radical" />
+  
 </p>
 
 <p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahyaahmedkhan&hide=jupyter%20notebook&layout=donut&theme=radical" />
+  <img height="200" src="https://github-readme-streak-stats.herokuapp.com?user=yahyaahmedkhan&theme=radical&background=000000" />
 </p>
 
 ---
